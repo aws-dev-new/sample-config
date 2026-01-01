@@ -25,7 +25,7 @@ app:
       value: "-DenvironmentType=stage"
     - name: MY_ENV
       value: "1"
-  # List of variables that can be referenced in server.xml
+  # List of variables that can be referenced in server.xml 
   # Liberty encrypted values are supported
   variables:
     - name: io_openliberty_sample_system_inMaintenance
